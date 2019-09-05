@@ -1,0 +1,23 @@
+}
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai:300');
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+}
+.milestones {
+  background-color: grey;
+
+}
+body {
+  background-color: blue;
+  @media screen and (max-width: 720px) {
+      .ia-container {
+  		width: 540px;
+  	}
