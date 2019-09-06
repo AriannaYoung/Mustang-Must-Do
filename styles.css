@@ -13,11 +13,5 @@ header {
 }
 .milestones {
   background-color: grey;
-
 }
-body {
-  background-color: blue;
-  @media screen and (max-width: 720px) {
-      .ia-container {
-  		width: 540px;
-  	}
+.milestone1
