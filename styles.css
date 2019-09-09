@@ -1,17 +1,42 @@
+html {
+    background-color: grey;
+}
 }
 @import url('https://fonts.googleapis.com/css?family=Arima+Madurai:300');
-
+@import url('https://fonts.googleapis.com/css?family=Livvic&display=swap');
 *,
 *::before,
 *::after {
 	box-sizing: border-box;
 }
+ 
 
 header {
   text-align: center;
   font-family: 'Nanum Myeongjo', serif;
 }
 .milestones {
-  background-color: grey;
+  background-color: blue;
+    font-family: 'Nanum Myeongjo', serif;
 }
-.milestone1
+.milestone1 {
+    background-color: black;
+    font-family: 'Livvic', sans-serif;
+}
+.milestone2 {
+    background-color: white;
+    outline-color: blue
+    font-family: 'Nanum Myeongjo', serif;
+}
+.milestone3 {
+    background-color: black;
+    font-family: 'Livvic', sans-serif;
+}
+.milestone4 {
+    background-color: white;
+    font-family: 'Nanum Myeongjo', serif;
+}
+.milestone5 {
+    background-color: black;
+    font-family: 'Livvic', sans-serif;
+}
